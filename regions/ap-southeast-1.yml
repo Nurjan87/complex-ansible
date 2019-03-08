@@ -1,0 +1,5 @@
+image: "ami-00158b185c8cc09dc"
+instance_type: "t2.micro"
+vpc_subnet_id: "subnet-1bf8e77c"
+key_name: "ansible"
+region: "ap-southeast-1"
